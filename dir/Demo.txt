@@ -1,6 +1,13 @@
 Hello world !
 
 hello.
+<<<<<<< HEAD
 
 hello
 hello
+=======
+hi has=rshal
+
+dsjkd
+hasral you will get the merge conflict
+>>>>>>> 7442744aa5ea5ec9ed0726cd0033461adc26d631
